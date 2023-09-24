@@ -1,0 +1,10 @@
+.Form {
+    background-image: url('/img/img1.webp');
+    background-size: cover; /* Adjust based on your needs */
+    background-repeat: no-repeat; /* Adjust based on your needs */
+    
+}
+fieldset{
+    background-color: rgb(213, 255, 218);
+    opacity: 0.9;
+}
